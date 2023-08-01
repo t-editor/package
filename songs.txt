@@ -98,5 +98,4 @@
      		"url": "https://drive.google.com/uc?export=download&id=1qwMPLCarXxFUiE7jvlnJUtHsi528DR1o",
      		"duration": "01:02",
      		"thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
-     	}
-     ]
+     }]
