@@ -1,1 +1,39 @@
-null
+{
+"interstitial_admob": {
+    "high": "ca-app-pub-5332374032010071/7422220405",
+    "medium": "ca-app-pub-5332374032010071/7422220405",
+    "all": "ca-app-pub-5332374032010071/2169893727"
+},
+"banner_admob": {
+    "high": "ca-app-pub-5332374032010071/4604485376",
+    "medium": "ca-app-pub-5332374032010071/4604485376",
+    "all": "ca-app-pub-5332374032010071/7521420614"
+},
+"native_admob": {
+    "high": "ca-app-pub-5332374032010071/3144064043",
+    "medium": "ca-app-pub-5332374032010071/3144064043",
+    "all": "ca-app-pub-5332374032010071/3526335288",
+    "2_high": "ca-app-pub-5332374032010071/8013247342",
+    "2_medium": "ca-app-pub-5332374032010071/8013247342",
+    "2_all": "ca-app-pub-5332374032010071/5387084007"
+},
+
+"force_update": "3.4",
+"new_package_and_redirect": "0", 
+"current_version": "3.5",
+
+"deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
+
+"integrated_player": true,
+"player_configs": [
+    {
+      "priority": 1,
+      "package": "mp3.calar.player"
+    },
+    {
+      "priority": 99,
+      "package": "com.tubazy.player"
+    }
+  ],
+"integrated_player_id": "com.tubazy.player"
+}
