@@ -1,22 +1,60 @@
 {
-"interstitial_admob": {
-    "high": "ca-app-pub-5984155195925924/6603264650",
-    "medium": "ca-app-pub-5984155195925924/5422617688",
-    "all": "ca-app-pub-5984155195925924/3854662444"
-},
-"banner_admob": {
-    "high": "ca-app-pub-5984155195925924/1342326976",
-    "medium": "ca-app-pub-5984155195925924/4847902618",
-    "all": "ca-app-pub-5984155195925924/9929116200"
-},
-"native_admob": {
-    "high": "ca-app-pub-5984155195925924/5090000295",
-    "medium": "ca-app-pub-5984155195925924/1868501586",
-    "all": "ca-app-pub-5984155195925924/9309319040",
-    "2_high": "ca-app-pub-5984155195925924/9438161616",
-    "2_medium": "ca-app-pub-5984155195925924/4303093233",
-    "2_all": "ca-app-pub-5984155195925924/4210364593"
-},
+  "ads": {
+    "low": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5984155195925924/3854662444"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5984155195925924/9929116200"
+      },
+      {
+        "type": "native1",
+        "unitid": "ca-app-pub-5984155195925924/9309319040"
+      },
+      {
+       "type": "native2",
+        "unitid": "ca-app-pub-5984155195925924/4210364593"
+      }
+    ],
+    "medium": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5984155195925924/5422617688"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5984155195925924/4847902618"
+      },
+      {
+        "type": "native1",
+        "unitid": "ca-app-pub-5984155195925924/1868501586"
+      },
+      {
+       "type": "native2",
+        "unitid": "ca-app-pub-5984155195925924/4303093233"
+      }
+    ],
+    "high": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5984155195925924/6603264650"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5984155195925924/1342326976"
+      },
+      {
+        "type": "native1",
+        "unitid": "ca-app-pub-5984155195925924/5090000295"
+      },
+      {
+       "type": "native2",
+        "unitid": "ca-app-pub-5984155195925924/9438161616"
+      }
+    ]
+  },
 
 "force_update": "3.4",
 "new_package_and_redirect": "0", 
