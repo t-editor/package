@@ -1,7 +1,7 @@
      [{
   "token": "1",
   "title": "Airplane Landing Airport",
-  "duration": "18",
+  "duration": 18,
   "audio": "https://drive.google.com/uc?export=download&id=1FIIkVHUMlMzqfvfZ71jL5k1aWpWRPHp2",
   "video": "https://drive.google.com/uc?export=download&id=1FIIkVHUMlMzqfvfZ71jL5k1aWpWRPHp2",
   "thumbnail": "https://drive.google.com/uc?export=download&id=1sjqzniX0LK09Xkmis9qR4xETD6ryGo_I"
@@ -9,7 +9,7 @@
      {
   "token": "2",
   "title": "Heavy Rain Wind",
-  "duration": "86",
+  "duration": 86,
   "audio": "https://drive.google.com/uc?export=download&id=1W49vuRUCEfgBTgm8LHRtfMbmDPCYxchA",
   "video": "https://drive.google.com/uc?export=download&id=1W49vuRUCEfgBTgm8LHRtfMbmDPCYxchA",
   "thumbnail": "https://drive.google.com/uc?export=download&id=1Lx18-Ib8sjvFAhavRwysae5O3MhWaRDw"
@@ -17,7 +17,7 @@
      {
   "token": "3",
   "title": "Small Dog Barking",
-  "duration": "23",
+  "duration": 23,
   "audio": "https://drive.google.com/uc?export=download&id=1OzCTRDesh1oFOGFwfAwxDVuzNZ5nUren",
   "video": "https://drive.google.com/uc?export=download&id=1OzCTRDesh1oFOGFwfAwxDVuzNZ5nUren",
   "thumbnail": "https://drive.google.com/uc?export=download&id=1ekU_1LMb6OyAAL5HYdNS05VMy3R6TL0G"
@@ -25,7 +25,7 @@
      {
   "token": "4",
   "title": "Labrador Barking Dog",
-  "duration": "21",
+  "duration": 21,
   "audio": "https://drive.google.com/uc?export=download&id=1uCIi7RYQw37y1aceB6jGYNbuvLWtrWFR",
   "video": "https://drive.google.com/uc?export=download&id=1uCIi7RYQw37y1aceB6jGYNbuvLWtrWFR",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -33,7 +33,7 @@
      {
   "token": "5",
   "title": "Old Car Starting",
-  "duration": "20",
+  "duration": 20,
   "audio": "https://drive.google.com/uc?export=download&id=1XWM5ZU4hwVK3gkkaMJ_SSFe23uRdDSBU",
   "video": "https://drive.google.com/uc?export=download&id=1XWM5ZU4hwVK3gkkaMJ_SSFe23uRdDSBU",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -41,7 +41,7 @@
      {
   "token": "6",
   "title": "Alien Spaceship UFO",
-  "duration": "16",
+  "duration": 16,
   "audio": "https://drive.google.com/uc?export=download&id=1cfKDU_qZ7sIOrTbg7WgGIND_DsDb8x_q",
   "video": "https://drive.google.com/uc?export=download&id=1cfKDU_qZ7sIOrTbg7WgGIND_DsDb8x_q",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -49,7 +49,7 @@
      {
   "token": "7",
   "title": "Harley Davidson",
-  "duration": "34",
+  "duration": 34,
   "audio": "https://drive.google.com/uc?export=download&id=1hksbUsP7N68IDqs0g4RiociFM2eb3zoq",
   "video": "https://drive.google.com/uc?export=download&id=1hksbUsP7N68IDqs0g4RiociFM2eb3zoq",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -57,7 +57,7 @@
      {
   "token": "8",
   "title": "Muscle Car",
-  "duration": "12",
+  "duration": 12,
   "audio": "https://drive.google.com/uc?export=download&id=1PVN6NLJr7vjh8ReWFejOIfT7TH9PpYO0",
   "video": "https://drive.google.com/uc?export=download&id=1PVN6NLJr7vjh8ReWFejOIfT7TH9PpYO0",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -65,7 +65,7 @@
      {
   "token": "9",
   "title": "Tolling Bell",
-  "duration": "20",
+  "duration": 20,
   "audio": "https://drive.google.com/uc?export=download&id=1jakrEQfscil1xF17tGWZCZ1wwxZCvVdG",
   "video": "https://drive.google.com/uc?export=download&id=1jakrEQfscil1xF17tGWZCZ1wwxZCvVdG",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -73,7 +73,7 @@
      {
   "token": "10",
   "title": "Bells Tibetan Large",
-  "duration": "18",
+  "duration": 18,
   "audio": "https://drive.google.com/uc?export=download&id=1fJnMwiDsMF3cblFwpfn5rnyaPTmSGJu5",
   "video": "https://drive.google.com/uc?export=download&id=1fJnMwiDsMF3cblFwpfn5rnyaPTmSGJu5",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -81,7 +81,7 @@
      {
   "token": "11",
   "title": "Hard Shoes",
-  "duration": "9",
+  "duration": 9,
   "audio": "https://drive.google.com/uc?export=download&id=1287jNdAdW_xUvTi5z964tksGxKLrU3Lh",
   "video": "https://drive.google.com/uc?export=download&id=1287jNdAdW_xUvTi5z964tksGxKLrU3Lh",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -89,7 +89,7 @@
      {
   "token": "12",
   "title": "Large Waterfall",
-  "duration": "44",
+  "duration": 44,
   "audio": "https://drive.google.com/uc?export=download&id=1LyCT9ounQJEASDr-C8hdEmU835AYWNC2",
   "video": "https://drive.google.com/uc?export=download&id=1LyCT9ounQJEASDr-C8hdEmU835AYWNC2",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -97,7 +97,7 @@
      {
   "token": "13",
   "title": "Sawing Wood",
-  "duration": "11",
+  "duration": 11,
   "audio": "https://drive.google.com/uc?export=download&id=11pajjUet9nrAJDuMCpw9OcTabSNJsxv2",
   "video": "https://drive.google.com/uc?export=download&id=11pajjUet9nrAJDuMCpw9OcTabSNJsxv2",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -105,7 +105,7 @@
      {
   "token": "14",
   "title": "Ice Skating",
-  "duration": "34",
+  "duration": 34,
   "audio": "https://drive.google.com/uc?export=download&id=15OVcN61DvXFKejaKWFKcRDTQtZSK7X3L",
   "video": "https://drive.google.com/uc?export=download&id=15OVcN61DvXFKejaKWFKcRDTQtZSK7X3L",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -113,7 +113,7 @@
      {
   "token": "15",
   "title": "Analog Watch Alarm",
-  "duration": "12",
+  "duration": 12,
   "audio": "https://drive.google.com/uc?export=download&id=1ueKqTKMC2eKQYw_NvW19tQ4VPQUyj1_6",
   "video": "https://drive.google.com/uc?export=download&id=1ueKqTKMC2eKQYw_NvW19tQ4VPQUyj1_6",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -121,7 +121,7 @@
      {
   "token": "16",
   "title": "Baby Music Box",
-  "duration": "18",
+  "duration": 18,
   "audio": "https://drive.google.com/uc?export=download&id=1X5sPCdjU-T93_VXzwsdq9Z7-Pr1yZlS1",
   "video": "https://drive.google.com/uc?export=download&id=1X5sPCdjU-T93_VXzwsdq9Z7-Pr1yZlS1",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -129,7 +129,7 @@
      {
   "token": "17",
   "title": "Airplane Takeoff",
-  "duration": "45",
+  "duration": 45,
   "audio": "https://drive.google.com/uc?export=download&id=1AQuQwzzGhBKKFvEA-oSi_BaX8oGL1RqO",
   "video": "https://drive.google.com/uc?export=download&id=1AQuQwzzGhBKKFvEA-oSi_BaX8oGL1RqO",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -137,7 +137,7 @@
      {
   "token": "18",
   "title": "Flock Seagulls",
-  "duration": "61",
+  "duration": 61,
   "audio": "https://drive.google.com/uc?export=download&id=1qQtcrJCg5z_fgBtzAKrb8fuUA87bWHGW",
   "video": "https://drive.google.com/uc?export=download&id=1qQtcrJCg5z_fgBtzAKrb8fuUA87bWHGW",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -145,7 +145,7 @@
      {
   "token": "19",
   "title": "Fire Truck Horn",
-  "duration": "8",
+  "duration": 8,
   "audio": "https://drive.google.com/uc?export=download&id=1hFvLAu8a9PCZ0YJjczk14qwT7nUcJydv",
   "video": "https://drive.google.com/uc?export=download&id=1hFvLAu8a9PCZ0YJjczk14qwT7nUcJydv",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
@@ -153,7 +153,7 @@
      {
   "token": "20",
   "title": "Water Drops",
-  "duration": "62",
+  "duration": 62,
   "audio": "https://drive.google.com/uc?export=download&id=1qwMPLCarXxFUiE7jvlnJUtHsi528DR1o",
   "video": "https://drive.google.com/uc?export=download&id=1qwMPLCarXxFUiE7jvlnJUtHsi528DR1o",
   "thumbnail": "https://drive.google.com/uc?export=download&id=12CYWPEBkoJUGfvrsNkeYfWvgEL8AYi69"
