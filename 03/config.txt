@@ -62,15 +62,15 @@
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
 
-"integrated_player": false,
+"integrated_player": true,
 "player_configs": [
     {
-      "priority": 1,
+      "priority": 11,
       "package": "mp3.calar.player"
     },
     {
-      "priority": 99,
-      "package": "com.tubazy.player"
+      "priority": 1,
+      "package": "com.tubazy.pro"
     }
   ],
 "integrated_player_id": "mp3.calar.player"
