@@ -73,5 +73,5 @@
       "package": "com.tubazy.player"
     }
   ],
-"integrated_player_id": "mp3.calar.player"
+"integrated_player_id": "com.tubazy.pro"
 }
