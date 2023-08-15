@@ -56,8 +56,8 @@
     ]
   },
 
-"force_update": "2.4.6",
-"new_package_and_redirect": "0", 
+"force_update": "2.4.5",
+"new_package_and_redirect": "com.tubazy.pro", 
 "current_version": "2.4.7",
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
