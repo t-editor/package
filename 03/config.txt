@@ -65,12 +65,12 @@
 "integrated_player": true,
 "player_configs": [
     {
-      "priority": 11,
+      "priority": 1,
       "package": "mp3.calar.player"
     },
     {
-      "priority": 1,
-      "package": "com.tubazy.pro"
+      "priority": 99,
+      "package": "com.tubazy.player"
     }
   ],
 "integrated_player_id": "mp3.calar.player"
