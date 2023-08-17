@@ -10,12 +10,12 @@
         "unitid": "ca-app-pub-5332374032010071/7521420614"
       },
       {
-        "type": "native1",
-        "unitid": "ca-app-pub-5332374032010071/3526335288"
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/1558100697"
       },
       {
-       "type": "native2",
-        "unitid": "ca-app-pub-5332374032010071/5387084007"
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/6901108472"
       }
     ],
     "medium": [
@@ -28,12 +28,12 @@
         "unitid": "ca-app-pub-5332374032010071/6479137349"
       },
       {
-        "type": "native1",
-        "unitid": "ca-app-pub-5332374032010071/6044023078"
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/6629645730"
       },
       {
-       "type": "native2",
-        "unitid": "ca-app-pub-5332374032010071/6555422291"
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/6701797929"
       }
     ],
     "high": [
@@ -46,12 +46,12 @@
         "unitid": "ca-app-pub-5332374032010071/4604485376"
       },
       {
-        "type": "native1",
-        "unitid": "ca-app-pub-5332374032010071/3144064043"
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/7823307907"
       },
       {
-       "type": "native2",
-        "unitid": "ca-app-pub-5332374032010071/8013247342"
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/6510226239"
       }
     ]
   },
