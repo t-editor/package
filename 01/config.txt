@@ -36,7 +36,43 @@
         "unitid": "ca-app-pub-5984155195925924/4246298625"
       }
     ],
+     "medium_other": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5984155195925924/5422617688"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5984155195925924/4847902618"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5984155195925924/4246298625"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5984155195925924/4246298625"
+      }
+    ],
     "high": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5984155195925924/5422617688"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5984155195925924/4847902618"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5984155195925924/4246298625"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5984155195925924/4246298625"
+      }
+    ],
+  "high_other": [
       {
         "type": "interstitial",
         "unitid": "ca-app-pub-5984155195925924/5422617688"
