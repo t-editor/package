@@ -36,7 +36,7 @@
         "unitid": "ca-app-pub-5984155195925924/4246298625"
       }
     ],
-     "medium_other": [
+    "medium_other": [
       {
         "type": "interstitial",
         "unitid": "ca-app-pub-5984155195925924/5422617688"
@@ -72,7 +72,7 @@
         "unitid": "ca-app-pub-5984155195925924/4246298625"
       }
     ],
-  "high_other": [
+    "high_other": [
       {
         "type": "interstitial",
         "unitid": "ca-app-pub-5984155195925924/5422617688"
