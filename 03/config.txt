@@ -36,6 +36,24 @@
         "unitid": "ca-app-pub-5332374032010071/4558263586"
       }
     ],
+    "medium_other": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5332374032010071/6970355260"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5332374032010071/4396162816"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/7184426926"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/4558263586"
+      }
+    ],
     "high": [
       {
         "type": "interstitial",
@@ -55,6 +73,24 @@
       }
     ]
   },
+  "high_other": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5332374032010071/6970355260"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5332374032010071/4396162816"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/7184426926"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/4558263586"
+      }
+    ],
 
 "force_update": "2.4.4",
 "new_package_and_redirect": "0", 
