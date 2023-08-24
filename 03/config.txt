@@ -71,8 +71,7 @@
        "type": "inline2",
         "unitid": "ca-app-pub-5332374032010071/5408310827"
       }
-    ]
-  },
+    ],
   "high_other": [
       {
         "type": "interstitial",
@@ -90,7 +89,8 @@
        "type": "inline2",
         "unitid": "ca-app-pub-5332374032010071/4558263586"
       }
-    ],
+    ]
+},
 
 "force_update": "2.4.4",
 "new_package_and_redirect": "0", 
