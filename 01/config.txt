@@ -92,11 +92,11 @@
     ]
   },
 
-"force_update": "4.7.5",
-"new_package_and_redirect": "com.tubazy.pro", 
-"current_version": "4.7.6",
+"force_update": "4.7.3",
+"new_package_and_redirect": "0", 
+"current_version": "4.7.4",
 
-"deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
+"deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR","TR"],
 
 "integrated_player": true,
 "player_configs": [
