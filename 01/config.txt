@@ -21,37 +21,37 @@
     "medium": [
       {
         "type": "interstitial",
-        "unitid": "ca-app-pub-5984155195925924/5422617688"
+        "unitid": "ca-app-pub-5332374032010071/4221477380"
       },
       {
         "type": "banner",
-        "unitid": "ca-app-pub-5984155195925924/4847902618"
+        "unitid": "ca-app-pub-5332374032010071/1991696021"
       },
       {
         "type": "inline1",
-        "unitid": "ca-app-pub-5984155195925924/4246298625"
+        "unitid": "ca-app-pub-5332374032010071/1991696021"
       },
       {
        "type": "inline2",
-        "unitid": "ca-app-pub-5984155195925924/4246298625"
+        "unitid": "ca-app-pub-5332374032010071/1991696021"
       }
     ],
     "medium_other": [
       {
         "type": "interstitial",
-        "unitid": "ca-app-pub-5332374032010071/7231332849"
+        "unitid": "ca-app-pub-5332374032010071/4221477380"
       },
       {
         "type": "banner",
-        "unitid": "ca-app-pub-5332374032010071/9338072691"
+        "unitid": "ca-app-pub-5332374032010071/1991696021"
       },
       {
         "type": "inline1",
-        "unitid": "ca-app-pub-5332374032010071/3292087832"
+        "unitid": "ca-app-pub-5332374032010071/1991696021"
       },
       {
        "type": "inline2",
-        "unitid": "ca-app-pub-5332374032010071/8557104377"
+        "unitid": "ca-app-pub-5332374032010071/1991696021"
       }
     ],
     "high": [
@@ -94,7 +94,7 @@
 
 "force_update": "4.7.3",
 "new_package_and_redirect": "0", 
-"current_version": "4.7.4",
+"current_version": "4.7.5",
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
 
