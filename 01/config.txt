@@ -98,7 +98,7 @@
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
 
-"integrated_player": false,
+"integrated_player": true,
 "player_configs": [
     {
       "priority": 1,
@@ -109,5 +109,5 @@
       "package": "com.tubazy.player"
     }
   ],
-"integrated_player_id": "mp3.calar.player"
+"integrated_player_id": "com.tubazy.pro"
 }
