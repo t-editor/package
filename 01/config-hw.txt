@@ -3,55 +3,55 @@
     "low": [
       {
         "type": "interstitial",
-        "unitid": "ca-app-pub-5984155195925924/3854662444"
+        "unitid": "ca-app-pub-5984155195925924/1286378198"
       },
       {
         "type": "banner",
-        "unitid": "ca-app-pub-5984155195925924/9929116200"
+        "unitid": "ca-app-pub-5984155195925924/3924149827"
       },
       {
         "type": "inline1",
-        "unitid": "ca-app-pub-5984155195925924/1572033828"
+        "unitid": "ca-app-pub-5984155195925924/9542721281"
       },
       {
        "type": "inline2",
-        "unitid": "ca-app-pub-5984155195925924/5751678335"
+        "unitid": "ca-app-pub-5984155195925924/1418240135"
       }
     ],
     "medium": [
       {
         "type": "interstitial",
-        "unitid": "ca-app-pub-5984155195925924/5422617688"
+        "unitid": "ca-app-pub-5984155195925924/7619852250"
       },
       {
         "type": "banner",
-        "unitid": "ca-app-pub-5984155195925924/4847902618"
+        "unitid": "ca-app-pub-5984155195925924/7053710191"
       },
       {
         "type": "inline1",
-        "unitid": "ca-app-pub-5984155195925924/6680890273"
+        "unitid": "ca-app-pub-5984155195925924/2791031550"
       },
       {
        "type": "inline2",
-        "unitid": "ca-app-pub-5984155195925924/9790408966"
+        "unitid": "ca-app-pub-5984155195925924/8732789222"
       }
     ],
     "medium_other": [
       {
         "type": "interstitial",
-        "unitid": "ca-app-pub-5332374032010071/7231332849"
+        "unitid": "ca-app-pub-5332374032010071/4255322311"
       },
       {
         "type": "banner",
-        "unitid": "ca-app-pub-5332374032010071/9338072691"
+        "unitid": "ca-app-pub-5332374032010071/8940086059"
       },
       {
         "type": "inline1",
-        "unitid": "ca-app-pub-5332374032010071/3292087832"
+        "unitid": "ca-app-pub-5332374032010071/9124505616"
       },
       {
        "type": "inline2",
-        "unitid": "ca-app-pub-5332374032010071/8557104377"
+        "unitid": "ca-app-pub-5332374032010071/8234929927"
       }
     ],
     "high": [
@@ -92,7 +92,7 @@
     ]
   },
 
-"force_update": "4.6.0",
+"force_update": "4.6.0000",
 "new_package_and_redirect": "0", 
 "current_version": "4.6.0474",
 
