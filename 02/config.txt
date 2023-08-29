@@ -3,55 +3,91 @@
     "low": [
       {
         "type": "interstitial",
-        "unitid": "ca-app-pub-5332374032010071/2169893727"
+        "unitid": "ca-app-pub-5332374032010071/6503293273"
       },
       {
         "type": "banner",
-        "unitid": "ca-app-pub-5332374032010071/7521420614"
+        "unitid": "ca-app-pub-5332374032010071/2417295339"
       },
       {
         "type": "inline1",
-        "unitid": "ca-app-pub-5332374032010071/1558100697"
+        "unitid": "ca-app-pub-5332374032010071/9425556810"
       },
       {
        "type": "inline2",
-        "unitid": "ca-app-pub-5332374032010071/6901108472"
+        "unitid": "ca-app-pub-5332374032010071/1842580263"
       }
     ],
     "medium": [
       {
         "type": "interstitial",
-        "unitid": "ca-app-pub-5332374032010071/5549199053"
+        "unitid": "ca-app-pub-5332374032010071/3470522554"
       },
       {
         "type": "banner",
-        "unitid": "ca-app-pub-5332374032010071/6479137349"
+        "unitid": "ca-app-pub-5332374032010071/6508034841"
       },
       {
         "type": "inline1",
-        "unitid": "ca-app-pub-5332374032010071/6629645730"
+        "unitid": "ca-app-pub-5332374032010071/3881871503"
       },
       {
        "type": "inline2",
-        "unitid": "ca-app-pub-5332374032010071/6701797929"
+        "unitid": "ca-app-pub-5332374032010071/2201672911"
+      }
+    ],
+    "medium_other": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5984155195925924/7889399272"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5984155195925924/6576317606"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5984155195925924/2093861709"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5984155195925924/9010909257"
       }
     ],
     "high": [
       {
         "type": "interstitial",
-        "unitid": "ca-app-pub-5332374032010071/7422220405"
+        "unitid": "ca-app-pub-5332374032010071/8220286357"
       },
       {
         "type": "banner",
-        "unitid": "ca-app-pub-5332374032010071/4604485376"
+        "unitid": "ca-app-pub-5332374032010071/8667008918"
       },
       {
         "type": "inline1",
-        "unitid": "ca-app-pub-5332374032010071/7823307907"
+        "unitid": "ca-app-pub-5332374032010071/6040845570"
       },
       {
        "type": "inline2",
-        "unitid": "ca-app-pub-5332374032010071/6510226239"
+        "unitid": "ca-app-pub-5332374032010071/1447279853"
+      }
+    ],
+    "high_other": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5984155195925924/9317745600"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5984155195925924/8004663938"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5984155195925924/2828644289"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5984155195925924/6691582262"
       }
     ]
   },
