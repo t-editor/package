@@ -92,6 +92,8 @@
     ]
   },
 
+"target_search_count":10,
+
 "force_update": "5.3.0000",
 "new_package_and_redirect": "0", 
 "current_version": "5.3.0545",
