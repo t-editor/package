@@ -92,7 +92,8 @@
     ]
   },
 
-"target_search_count":10,
+"target_search_count": 10,
+"user_delay_time": 5,
 
 "force_update": "4.6.0000",
 "new_package_and_redirect": "0", 
