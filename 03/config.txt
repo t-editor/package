@@ -92,8 +92,8 @@
     ]
 },
 
-"target_search_count": 10,
-"user_delay_time": 5,
+"target_search_count": 5,
+"user_delay_time": 4,
 
 "force_update": "2.4.4",
 "new_package_and_redirect": "0", 
