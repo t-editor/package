@@ -92,8 +92,8 @@
     ]
   },
 
-"target_search_count": 10,
-"user_delay_time": 5,
+"target_search_count": 5,
+"user_delay_time": 4,
 
 "force_update": "4.7.3",
 "new_package_and_redirect": "0", 
