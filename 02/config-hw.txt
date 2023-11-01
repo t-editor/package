@@ -112,5 +112,6 @@
       "package": "com.tubazy.player"
     }
   ],
+"advertise_player": false,
 "integrated_player_id": "mp3.calar.player"
 }
