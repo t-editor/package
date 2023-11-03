@@ -101,7 +101,7 @@
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
 
-"integrated_player": true,
+"integrated_player": false,
 "player_configs": [
     {
       "priority": 1,
