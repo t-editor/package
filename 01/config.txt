@@ -95,8 +95,8 @@
 "target_search_count": 5,
 "user_delay_time": 4,
 
-"force_update": "4.7.3",
-"new_package_and_redirect": "0", 
+"force_update": "10.0.0",
+"new_package_and_redirect": "com.tubazy.pro", 
 "current_version": "4.7.5",
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR","VN"],
