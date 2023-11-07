@@ -92,8 +92,8 @@
     ]
   },
 
-"target_search_count": 5,
-"user_delay_time": 4,
+"target_search_count": 10,
+"user_delay_time": 10,
 
 "force_update": "5.5.0",
 "new_package_and_redirect": "0", 
