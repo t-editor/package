@@ -95,9 +95,9 @@
 "target_search_count": 10,
 "user_delay_time": 10,
 
-"force_update": "5.3.0000",
+"force_update": "5.5.602",
 "new_package_and_redirect": "0", 
-"current_version": "5.3.0545",
+"current_version": "5.5.602",
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
 
