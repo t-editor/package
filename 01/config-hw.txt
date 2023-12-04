@@ -97,7 +97,7 @@
 
 "force_update": "10000.0.0",
 "new_package_and_redirect": "com.tubazy.pro", 
-"current_version": "4.6.0474",
+"current_version": "1000.0.1",
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR","VN"],
 
