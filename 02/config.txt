@@ -101,7 +101,7 @@
 "current_version": "6.0.1",
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
-"gdpr_cc": ["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE"],
+"gdpr_cc": ["GB","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE"],
 
 "integrated_player": false,
 "player_configs": [
