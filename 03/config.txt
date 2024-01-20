@@ -93,7 +93,7 @@
 },
 
 "target_search_count": 5,
-"user_delay_time": 4,
+"user_delay_time": 5,
 "is_promotion_active": true,
 
 "force_update": "2.4.4",
