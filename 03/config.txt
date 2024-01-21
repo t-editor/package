@@ -1,162 +1,119 @@
 {
-    "ads": {
-        "low": [
-            {
-                "type": "interstitial",
-                "unitid": "ca-app-pub-5332374032010071/3363866649"
-            },
-            {
-                "type": "banner",
-                "unitid": "ca-app-pub-5332374032010071/5798458299"
-            },
-            {
-                "type": "inline1",
-                "unitid": "ca-app-pub-5332374032010071/6753182089"
-            },
-            {
-                "type": "inline2",
-                "unitid": "ca-app-pub-5332374032010071/5205701669"
-            }
-        ],
-        "medium": [
-            {
-                "type": "interstitial",
-                "unitid": "ca-app-pub-5332374032010071/6970355260"
-            },
-            {
-                "type": "banner",
-                "unitid": "ca-app-pub-5332374032010071/4396162816"
-            },
-            {
-                "type": "inline1",
-                "unitid": "ca-app-pub-5332374032010071/7184426926"
-            },
-            {
-                "type": "inline2",
-                "unitid": "ca-app-pub-5332374032010071/4558263586"
-            }
-        ],
-        "medium_other": [
-            {
-                "type": "interstitial",
-                "unitid": "ca-app-pub-5332374032010071/2349846726"
-            },
-            {
-                "type": "banner",
-                "unitid": "ca-app-pub-5332374032010071/3550661025"
-            },
-            {
-                "type": "inline1",
-                "unitid": "ca-app-pub-5332374032010071/2018674239"
-            },
-            {
-                "type": "inline2",
-                "unitid": "ca-app-pub-5332374032010071/3227814121"
-            }
-        ],
-        "high": [
-            {
-                "type": "interstitial",
-                "unitid": "ca-app-pub-5332374032010071/9022844206"
-            },
-            {
-                "type": "banner",
-                "unitid": "ca-app-pub-5332374032010071/9952782496"
-            },
-            {
-                "type": "inline1",
-                "unitid": "ca-app-pub-5332374032010071/6992855237"
-            },
-            {
-                "type": "inline2",
-                "unitid": "ca-app-pub-5332374032010071/5408310827"
-            }
-        ],
-        "high_other": [
-            {
-                "type": "interstitial",
-                "unitid": "ca-app-pub-5332374032010071/8723683384"
-            },
-            {
-                "type": "banner",
-                "unitid": "ca-app-pub-5332374032010071/8092541260"
-            },
-            {
-                "type": "inline1",
-                "unitid": "ca-app-pub-5332374032010071/7079429221"
-            },
-            {
-                "type": "inline2",
-                "unitid": "ca-app-pub-5332374032010071/3056709145"
-            }
-        ]
+  "ads": {
+    "low": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5332374032010071/3363866649"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5332374032010071/5798458299"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/6753182089"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/5205701669"
+      }
+    ],
+    "medium": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5332374032010071/6970355260"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5332374032010071/4396162816"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/7184426926"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/4558263586"
+      }
+    ],
+    "medium_other": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5332374032010071/2349846726"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5332374032010071/3550661025"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/2018674239"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/3227814121"
+      }
+    ],
+    "high": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5332374032010071/9022844206"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5332374032010071/9952782496"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/6992855237"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/5408310827"
+      }
+    ],
+    "high_other": [
+      {
+        "type": "interstitial",
+        "unitid": "ca-app-pub-5332374032010071/8723683384"
+      },
+      {
+        "type": "banner",
+        "unitid": "ca-app-pub-5332374032010071/8092541260"
+      },
+      {
+        "type": "inline1",
+        "unitid": "ca-app-pub-5332374032010071/7079429221"
+      },
+      {
+       "type": "inline2",
+        "unitid": "ca-app-pub-5332374032010071/3056709145"
+      }
+    ]
+},
+
+"target_search_count": 5,
+"user_delay_time": 5,
+"is_promotion_active": true,
+
+"force_update": "2.4.4",
+"new_package_and_redirect": "0", 
+"current_version": "2.4.5",
+
+"deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
+"gdpr_cc": ["GB","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE"],
+
+"integrated_player": false,
+"player_configs": [
+    {
+      "priority": 1,
+      "package": "mp3.calar.player"
     },
-    "target_search_count": 5,
-    "user_delay_time": 5,
-    "is_promotion_active": true,
-    "force_update": "2.4.4",
-    "new_package_and_redirect": "0",
-    "current_version": "2.4.5",
-    "deny_cc": [
-        "US",
-        "MY",
-        "PH",
-        "IN",
-        "JP",
-        "CN",
-        "UY",
-        "TH",
-        "CA",
-        "IE",
-        "IL",
-        "BR",
-        "SG",
-        "KR"
-    ],
-    "gdpr_cc": [
-        "GB",
-        "AT",
-        "BE",
-        "BG",
-        "HR",
-        "CY",
-        "CZ",
-        "DK",
-        "EE",
-        "FI",
-        "FR",
-        "DE",
-        "GR",
-        "HU",
-        "IS",
-        "IE",
-        "IT",
-        "LV",
-        "LI",
-        "LT",
-        "LU",
-        "MT",
-        "NL",
-        "NO",
-        "PL",
-        "PT",
-        "RO",
-        "SK",
-        "SI",
-        "ES",
-        "SE"
-    ],
-    "integrated_player": false,
-    "player_configs": [
-        {
-            "priority": 1,
-            "package": "mp3.calar.player"
-        },
-        {
-            "priority": 99,
-            "package": "com.tubazy.player"
-        }
-    ],
-    "advertise_player": false,
-    "integrated_player_id": "mp3.calar.player"
+    {
+      "priority": 99,
+      "package": "com.tubazy.player"
+    }
+  ],
+"advertise_player": false,
+"integrated_player_id": "mp3.calar.player"
 }
