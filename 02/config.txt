@@ -94,7 +94,7 @@
 
 "target_search_count": 10,
 "user_delay_time": 10,
-"is_promotion_active": true,
+"is_promotion_active": false,
 
 "force_update": "6.0.1",
 "new_package_and_redirect": "0", 
