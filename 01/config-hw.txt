@@ -95,7 +95,7 @@
 "target_search_count": 5,
 "user_delay_time": 4,
 
-"force_update": "10000.0.0",
+"force_update": "10000.0.1",
 "new_package_and_redirect": "com.tubazy.pro", 
 "current_version": "1000.0.1",
 
