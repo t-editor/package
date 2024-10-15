@@ -1,0 +1,21 @@
+{
+  "payload": {
+    "context": {
+      "client": {
+        "clientName": "IOS",
+        "clientVersion": "19.29.1",
+        "deviceMake": "Apple",
+        "deviceModel": "iPhone16,2",
+        "hl": "en",
+        "osName": "iPhone",
+        "osVersion": "17.5.1.21F90",
+        "timeZone": "UTC",
+        "userAgent": "com.google.ios.youtube/19.29.1 (iPhone16,2; U; CPU iOS 17_5_1 like Mac OS X;)",
+        "gl": "US",
+        "utcOffsetMinutes": 0
+      }
+    }
+  },
+  "apiUrl": "https://www.youtube.com/youtubei/v1/player?key=AIzaSyB-63vPrdThhKuerbB2N_l7Kwwcxj6yUAc&prettyPrint=false",
+  "headers": {}
+}
