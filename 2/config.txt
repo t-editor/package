@@ -6,8 +6,8 @@
 "force_update": "7.0.8",
 "new_package_and_redirect": "0", 
 "current_version": "7.1.0",
-"audio_client_active" : false,
-"video_client_active" : false,
+"audio_client_active": true,
+"video_client_active": true,
 "deny_cc": ["US","GB","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
 "gdpr_cc": ["GB","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE"],
 
