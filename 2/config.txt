@@ -4,7 +4,7 @@
 "is_promotion_active": true,
 "first_ad_step":1,
 "new_user_first_ad_step":3,
-"first_ad_type":2,
+"first_ad_type":1,
 
 "force_update": "7.0.8",
 "new_package_and_redirect": "0", 
