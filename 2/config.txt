@@ -2,7 +2,7 @@
 "target_search_count": 5,
 "user_delay_time": 10,
 "is_promotion_active": true,
-"first_ad_step":1,
+"first_ad_step":0,
 "new_user_first_ad_step":3,
 "first_ad_type":1,
 
