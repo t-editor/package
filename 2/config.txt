@@ -1,5 +1,6 @@
 {
 "target_search_count": 5,
+"user_active_time": 10,
 "user_delay_time": 10,
 "is_promotion_active": true,
 "first_ad_step":0,
