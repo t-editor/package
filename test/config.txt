@@ -1,0 +1,31 @@
+{
+"target_search_count": 2,
+"user_active_time": 1,
+"user_delay_time": 1,
+"is_promotion_active": true,
+"first_ad_step":1,
+"new_user_first_ad_step":3,
+"first_ad_type":1,
+
+"force_update": "7.0.8",
+"new_package_and_redirect": "0", 
+"current_version": "9.9.9",
+"audio_client_active": false,
+"video_client_active": false,
+"deny_cc": ["US","GB","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
+"gdpr_cc": ["GB","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE"],
+
+"integrated_player": false,
+"player_configs": [
+    {
+      "priority": 1,
+      "package": "mp3.calar.player"
+    },
+    {
+      "priority": 99,
+      "package": "com.tubazy.player"
+    }
+  ],
+"advertise_player": false,
+"integrated_player_id": "mp3.calar.player"
+}
