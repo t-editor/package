@@ -1,4 +1,5 @@
 {
-  "video": ["A1234", "b5678"],
-  "channel": ["P123_456", "a789"]
-}
+    "mediaIdList": ["fpWccVc_Xzk"],
+    "channelIdList": ["UC2pRs3ZCSdtuJdd6BvfmjHw"],
+    "mediaNameList": ["Polyglot olmak | \"Her dilde farklı bir karakterim\""]
+  }
