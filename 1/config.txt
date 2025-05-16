@@ -4,7 +4,7 @@
 "is_promotion_active": true,
 
 "force_update": "7.0.8",
-"new_package_and_redirect": "0", 
+"new_package_and_redirect": "music.musicplayer.mp3player.pro", 
 "current_version": "7.1.0",
 "audio_client_active": false,
 "video_client_active": false,
