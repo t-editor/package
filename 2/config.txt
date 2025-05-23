@@ -1,7 +1,7 @@
 {
-"target_search_count": 5,
-"user_active_time": 10,
-"user_delay_time": 10,
+"target_search_count": 500000,
+"user_active_time": 60,
+"user_delay_time": 60,
 "is_promotion_active": true,
 "first_ad_step":1,
 "new_user_first_ad_step":3,
@@ -19,13 +19,13 @@
 "player_configs": [
     {
       "priority": 1,
-      "package": "mp3.calar.player"
+      "package": "a.b.c"
     },
     {
       "priority": 99,
-      "package": "com.tubazy.player"
+      "package": "a.a.a"
     }
   ],
 "advertise_player": false,
-"integrated_player_id": "mp3.calar.player"
+"integrated_player_id": "b.b.b"
 }
