@@ -1,5 +1,5 @@
 {
     "mediaIdList": ["fpWccVc_Xzk"],
-    "channelIdList": ["UC2pRs3ZCSdtuJdd6BvfmjHw"],
-    "mediaNameList": ["Polyglot olmak | \"Her dilde farklı bir karakterim\""]
+    "channelIdList": ["UCenWG8ydkLWzef6dzrNO6XA"],
+    "mediaNameList": ["DJ Old Man | dj oldman | djoldman | djold man | dj.oldman | Dj.Old Man | Metin Düzleyen | MetinDüzleyen | Loop of Dust | Ahhh Müjgan | İstanbul Ağlıyor | Void Pulse | Sensiz ve Sessiz | \"Her dilde farklı bir karakterim\""]
   }
