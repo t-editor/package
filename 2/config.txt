@@ -7,7 +7,7 @@
     "new_user_first_ad_step": 3,
     "first_ad_step": 1,
     "current_version": "1.0.0",
-    "force_update": "1.0.0",
+    "force_update": "10.0.0",
     "new_package_and_redirect": "com.fastsave.musicplayer",
     "new_target_app_logo": "0",
     "message_id": "0",
