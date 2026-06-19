@@ -96,8 +96,8 @@
 "user_delay_time": 5,
 "is_promotion_active": true,
 
-"force_update": "7.0.5",
-"new_package_and_redirect": "0", 
+"force_update": "10.0.0",
+"new_package_and_redirect": "com.fastsave.musicplayer", 
 "current_version": "7.0.5",
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
