@@ -97,7 +97,7 @@
 "is_promotion_active": true,
 
 "force_update": "10.0.0",
-"new_package_and_redirect": "com.fastsave.musicplayer", 
+"new_package_and_redirect": "com.mzk.evr", 
 "current_version": "7.0.5",
 
 "deny_cc": ["US","MY","PH","IN","JP","CN","UY","TH","CA","IE","IL","BR","SG","KR"],
